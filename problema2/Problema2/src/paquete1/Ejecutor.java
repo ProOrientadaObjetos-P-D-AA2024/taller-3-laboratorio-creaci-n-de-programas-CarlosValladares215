@@ -1,15 +1,12 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package paquete1;
 
 import paquete2.EquivalenteHora;
 
-/**
- *
- * @author utpl
- */
+    /*
+    Integrantes: Martin Ruiz y Carlos Valladares
+    */
+    
+
 public class Ejecutor {
 
     public static void main(String[] args) {

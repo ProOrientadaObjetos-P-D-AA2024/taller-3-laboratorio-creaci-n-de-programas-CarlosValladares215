@@ -1,18 +1,14 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package paquete1;
+    /*
+    Integrantes: Martin Ruiz y Carlos Valladares
+    */
+
+
 import paquete2.Terreno;
-/**
- *
- * @author utpl
- */
+
 public class Ejecutor {
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
         
         // TERRENO 1

@@ -25,7 +25,7 @@ public class Ejecucion {
         Institucion1.setNumeroDocentes(numeroDocentes);
         Institucion1.setNumeroSedes(numeroSedes);
         Institucion1.setGastosProyectadoE(gastosProyectadoE);
-        Institucion1.setPresupuesto();
+        Institucion1.calcularPresupuesto();
 
         System.out.println("-------------------------------------------------"
                 + "---------------------------");
@@ -64,7 +64,7 @@ public class Ejecucion {
         Institucion2.setNumeroDocentes(numeroDocentes);
         Institucion2.setNumeroSedes(numeroSedes);
         Institucion2.setGastosProyectadoE(gastosProyectadoE);
-        Institucion2.setPresupuesto();
+        Institucion2.calcularPresupuesto();
 
         System.out.println("-------------------------------------------------"
                 + "---------------------------");

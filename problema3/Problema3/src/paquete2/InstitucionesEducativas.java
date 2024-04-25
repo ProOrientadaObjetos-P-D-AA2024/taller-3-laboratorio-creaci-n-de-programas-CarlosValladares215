@@ -65,7 +65,7 @@ public class InstitucionesEducativas {
         return presupuesto;
     }
 
-    public void setPresupuesto() {
+    public void calcularPresupuesto() {
         presupuesto = numeroAlumnos * gastosProyectadoE;
     }
     
